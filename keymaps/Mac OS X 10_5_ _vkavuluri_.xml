@@ -23,6 +23,9 @@
   <action id="Git.CompareWithBranch">
     <keyboard-shortcut first-keystroke="alt b" />
   </action>
+  <action id="ManageRecentProjects">
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
   <action id="Rerun">
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
