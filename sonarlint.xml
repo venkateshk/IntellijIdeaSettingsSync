@@ -6,6 +6,7 @@
         <option value="squid:S00116" />
         <option value="squid:S1643" />
         <option value="squid:S2629" />
+        <option value="squid:SwitchLastCaseIsDefaultCheck" />
       </set>
     </option>
   </component>
