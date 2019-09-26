@@ -3,6 +3,7 @@
     <option name="excludedRules">
       <set>
         <option value="squid:RedundantThrowsDeclarationCheck" />
+        <option value="squid:S00116" />
         <option value="squid:S1643" />
         <option value="squid:S2629" />
       </set>
