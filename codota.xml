@@ -1,6 +1,7 @@
 <application>
   <component name="CodotaSettings">
     <option name="id" value="6def4915-4f24-4a5e-8d0f-cec898d921d2" />
+    <option name="wasRunBefore" value="true" />
     <option name="firstRun" value="1569775712987" />
     <option name="generation" value="23" />
     <option name="updateGeneration" value="1" />
