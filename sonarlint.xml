@@ -1,13 +1,11 @@
 <application>
   <component name="SonarLintGlobalSettings">
-    <option name="excludedRules">
-      <set>
-        <option value="squid:RedundantThrowsDeclarationCheck" />
-        <option value="squid:S00116" />
-        <option value="squid:S1643" />
-        <option value="squid:S2629" />
-        <option value="squid:SwitchLastCaseIsDefaultCheck" />
-      </set>
-    </option>
+    <rules>
+      <Rule active="false" key="squid:RedundantThrowsDeclarationCheck" />
+      <Rule active="false" key="squid:S00116" />
+      <Rule active="false" key="squid:S1643" />
+      <Rule active="false" key="squid:SwitchLastCaseIsDefaultCheck" />
+      <Rule active="false" key="squid:S2629" />
+    </rules>
   </component>
 </application>
