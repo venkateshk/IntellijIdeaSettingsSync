@@ -1,8 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project production files" />
-    <option name="defaultScopeName" value="Project production files" />
-    <option name="SEARCH_SCOPE" value="Project production files" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.json" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -10,5 +11,6 @@
     <mask>*.java</mask>
     <mask>*.proto</mask>
     <mask>*.properties</mask>
+    <mask>*.json</mask>
   </component>
 </application>
