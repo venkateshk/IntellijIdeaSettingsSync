@@ -26,6 +26,9 @@
   <action id="ManageRecentProjects">
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
+  <action id="ProjectView.AbbreviatePackageNames">
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
   <action id="Rerun">
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
