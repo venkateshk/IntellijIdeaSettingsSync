@@ -1,0 +1,17 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="compactMenus" value="true" />
+    <option name="compactStatusBar" value="true" />
+    <option name="compactTables" value="true" />
+    <option name="premium" value="true" />
+    <option name="compactDropdowns" value="true" />
+    <option name="isCompactMenus" value="true" />
+    <option name="isCompactStatusBar" value="true" />
+    <option name="isCompactTables" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="accentColor" value="79cb60" />
+    <option name="selectedTheme" value="GITHUB" />
+    <option name="userId" value="5bc7868d:17cd759504a:-8000" />
+    <option name="version" value="6.9.1" />
+  </component>
+</application>
