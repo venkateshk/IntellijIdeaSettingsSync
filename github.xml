@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account name="vkavuluri" id="686fb69f-90d1-4ddf-8c00-54450889fedc">
+      <server useHttp="false" host="github.paypal.com" />
+    </account>
+  </component>
+</application>
