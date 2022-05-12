@@ -3,16 +3,16 @@
     <option name="customScope" value="Project production files" />
     <option name="defaultScopeName" value="Project production files" />
     <option name="SEARCH_SCOPE" value="Project production files" />
-    <option name="FILE_MASK" value="*.json" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.proto</mask>
     <mask>*.prope</mask>
     <mask>*.txt</mask>
+    <mask>*.json</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
-    <mask>*.json</mask>
   </component>
 </application>
