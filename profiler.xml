@@ -5,6 +5,11 @@
         <option name="showCalleesList" value="false" />
       </call-tree-ui>
     </option>
+    <option name="snapshotOptions">
+      <snapshot-options>
+        <option name="folder" value="$USER_HOME$/projects/memory_snapshots" />
+      </snapshot-options>
+    </option>
     <option name="threadListOptions">
       <thread-list>
         <option name="showMetrics">
