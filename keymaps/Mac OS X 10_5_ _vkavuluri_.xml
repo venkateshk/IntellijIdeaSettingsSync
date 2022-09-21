@@ -35,9 +35,6 @@
   <action id="Rerun">
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
-  <action id="RunAnything">
-    <keyboard-shortcut first-keystroke="shift ctrl meta alt r" />
-  </action>
   <action id="StepInto">
     <keyboard-shortcut first-keystroke="f7" />
     <keyboard-shortcut first-keystroke="ctrl i" />
@@ -61,6 +58,9 @@
   <action id="VcsShowPrevChangeMarker">
     <keyboard-shortcut first-keystroke="shift ctrl alt up" />
     <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
+  <action id="XDebugger.MuteBreakpoints">
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt m" />
   </action>
   <action id="editRunConfigurations">
     <keyboard-shortcut first-keystroke="ctrl alt e" />
