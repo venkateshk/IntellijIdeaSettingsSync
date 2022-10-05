@@ -17,10 +17,11 @@
             <entry key="threadIdMetric" value="true" />
           </map>
         </option>
+        <option name="sortByName" value="true" />
         <option name="sortMetrics">
           <map>
             <entry key="allocationSize" value="true" />
-            <entry key="samplesCountMetric" value="true" />
+            <entry key="samplesCountMetric" value="false" />
           </map>
         </option>
       </thread-list>
