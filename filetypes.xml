@@ -8,6 +8,7 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="family" type="PLAIN_TEXT" />
+      <mapping ext="jmx" type="PLAIN_TEXT" />
       <mapping ext="proto" type="PLAIN_TEXT" />
       <mapping ext="mul" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
