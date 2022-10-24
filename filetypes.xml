@@ -4,9 +4,6 @@
       <mapping pattern="notes" type="AUTO_DETECTED" />
       <mapping pattern="CurrencyConvertCustomerWithReverseChoice_349106071" type="AUTO_DETECTED" />
       <mapping pattern="CryptoUKHonorFX_1782853292" type="AUTO_DETECTED" />
-      <mapping ext="space.kts" type="Kotlin" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="family" type="PLAIN_TEXT" />
       <mapping ext="jmx" type="PLAIN_TEXT" />
       <mapping ext="proto" type="PLAIN_TEXT" />
@@ -20,6 +17,9 @@
       <removed_mapping ext="proto" approved="true" type="protobuf" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="tsv" approved="true" type="CSV/TSV" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="space.kts" type="Kotlin" />
     </extensionMap>
   </component>
 </application>
